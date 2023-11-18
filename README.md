@@ -30,6 +30,9 @@ To boost mutation testing effectiveness and overall test coverage:
 - Consider using property-based testing to validate multiple scenarios efficiently.
 
 ## 7. Conclusion
-The mutation testing process using MutPy indicated a moderate improvement in mutation score after enhancing the test suite. However, a considerable number of mutants remained undetected or exhibited incorrect test results. Enhancements to the test suite will be pivotal to further improve mutation score and overall code reliability.
+The mutation testing process using MutPy indicated a moderate improvement in mutation score after enhancing the test suite (test cases in PyTest.py). However, a considerable number of mutants remained undetected or exhibited incorrect test results. Enhancements to the test suite will be pivotal to further improve mutation score and overall code reliability.
+
+Below are all of my added test suites to help improve the mutation score:
+
 
 
